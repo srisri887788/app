@@ -1,0 +1,10 @@
+.txt-center{
+    text-align: center !important;
+}
+.price {
+    margin-left: 1rem;
+}
+
+.text-success {
+    color: #28a745!important;
+}
